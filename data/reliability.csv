@@ -1,0 +1,13 @@
+measure,interval,ordinal,note
+alpha mean of six,0.45,,3 graders; coders = grader
+alpha red_quality,0.33,0.31,
+alpha blue_grounding,0.33,0.32,
+alpha blind_spot_honesty,0.41,0.40,
+alpha referee_rigor,0.45,0.41,
+alpha aar_actionability,0.55,0.35,
+alpha insight,0.07,0.06,
+alpha invented_facts,0.24,0.22,
+alpha rule_breaks,0.60,0.50,
+planted-fault detection gemini,3 of 3,,fabricated control inserted into a blue turn; N=3 pairs (exploratory)
+planted-fault detection kimi,1 of 3,,
+planted-fault detection claude,not run,,API spend limit reached on the grading key (not a refusal)
